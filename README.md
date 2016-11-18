@@ -6,6 +6,6 @@ Hello,
 
 This is test:
 
-#Test A
-#Test B
-# Test C
+*Test A
+*Test B
+*Test C
